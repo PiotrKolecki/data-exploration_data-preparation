@@ -17,6 +17,12 @@ http://data.worldbank.org
 * matplotlib
 * world_bank_data
 
+# Data Statistics
+| All Records | Empty | Empty (div by 0) | Not empty |
+| :---: | :---: | :---: | :---: |
+| 3834 | 278 | 113 | 3556 |
+| | 7.25% | 2.95% | 92.75% |
+
 # Final Columns
 | Parameter | Description |
 | :--- | :--- |
